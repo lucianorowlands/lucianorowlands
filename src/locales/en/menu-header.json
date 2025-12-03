@@ -1,0 +1,17 @@
+{
+  "menu": {
+    "home": "Home",
+    "revista": "Nuna Vivi Magazine",
+    "aulas": "Classes",
+    "aulasMusica": "Music",
+    "aulasPortugues": "Portuguese",
+    "aconselhamentos": "Counseling",
+    "aconselhamentoFilosofico": "Philosophical Care",
+    "mentoriaArtistica": "Artistic Mentoring",
+    "musica": "Music",
+    "musicaOuvir": "To Listen",
+    "musicaPartituras": "Scores & Chords",
+    "servicos": "Other Services",
+    "sobre": "About Nuna Fari"
+  }
+}

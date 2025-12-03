@@ -1,0 +1,19 @@
+{
+  "layer1": {
+    "image_alt": "Retrato de Luciano Rowlands",
+    "core_phrase": "<p class='text-3xl sm:text-4xl lg:text-5xl font-light tracking-wide text-slate-800'>¡Mi universo es tuyo!</p>",
+    "main_button": "Más sobre Luciano"
+  },
+
+  "layer2": {
+    "presentation": "<p class='text-base sm:text-lg text-slate-700 leading-relaxed'>Bienvenido a mi sitio web. Soy Luciano Rowlands, compositor, cantor, escritor, filósofo espiritualista, actor, empresario emprendedor, consultor y profesor.</p>",
+    "invitation": "<p class='mt-4 text-base sm:text-lg text-slate-700 leading-relaxed'>Te invito a explorar el sitio. Aquí encontrarás un repertorio en constante crecimiento que busco poner a disposición de todas las personas interesadas, en todas mis áreas de actuación.</p>"
+  },
+
+  "layer3": {
+    "orientation": "<p class='text-sm sm:text-base text-slate-600'>A continuación hay algunos destaques y atajos para ir directamente a lo que te interesa.</p>",
+    "alternative": "<p class='mt-2 text-sm sm:text-base text-slate-600'>Pero si quieres saber más sobre mi trabajo en general y sobre este sitio, <a href='#' class='underline hover:opacity-70'>haz clic aquí</a>.</p>",
+    "newsletter_call": "<p class='mt-4 text-sm sm:text-base text-slate-600'>Si te gusta el contenido y quieres mantenerte actualizado, puedes suscribirte a mi newsletter mensual <span class='italic'>Carta Para Ti</span>.</p>",
+    "newsletter_button": "Recibir Carta Para Ti"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "sectionTitle": "Destaques",
+  "readMore": "Ler mais",
+  "seeMore": "Ver tudo",
+  "items": [
+    {
+      "id": 1,
+      "title": "Novo vídeo: 'Canção para o Agora'",
+      "summary": "Já está no YouTube a gravação ao vivo do último ensaio de Luciano.",
+      "link": "https://youtube.com/seuvideo"
+    },
+    {
+      "id": 2,
+      "title": "Artigo na Revista Tal",
+      "summary": "Leitura recomendada: reflexão sobre arte e presença, publicada na edição de outubro.",
+      "link": "https://revistaexemplo.com/artigo"
+    },
+    {
+      "id": 3,
+      "title": "Show em Montevidéu",
+      "summary": "Apresentação no Centro Cultural no próximo sábado, às 19h.",
+      "link": null
+    }
+  ]
+}

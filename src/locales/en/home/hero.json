@@ -1,0 +1,19 @@
+{
+  "layer1": {
+    "image_alt": "Portrait of Luciano Rowlands",
+    "core_phrase": "<p class='text-3xl sm:text-4xl lg:text-5xl font-light tracking-wide text-slate-800'>My universe is yours!</p>",
+    "main_button": "More about Luciano"
+  },
+
+  "layer2": {
+    "presentation": "<p class='text-base sm:text-lg text-slate-700 leading-relaxed'>Welcome to my website. I am Luciano Rowlands, composer, singer, writer, spiritual philosopher, actor, entrepreneur, consultant and teacher.</p>",
+    "invitation": "<p class='mt-4 text-base sm:text-lg text-slate-700 leading-relaxed'>I invite you to explore the site. Here you will find a constantly growing repertoire that I seek to make available to all interested people in all my areas of activity.</p>"
+  },
+
+  "layer3": {
+    "orientation": "<p class='text-sm sm:text-base text-slate-600'>Below are some highlights and shortcuts to go directly to what interests you.</p>",
+    "alternative": "<p class='mt-2 text-sm sm:text-base text-slate-600'>But if you want to know more about my work in general and about this site, <a href='#' class='underline hover:opacity-70'>click here</a>.</p>",
+    "newsletter_call": "<p class='mt-4 text-sm sm:text-base text-slate-600'>If you like the content and want to stay up to date, you can subscribe to my monthly newsletter <span class='italic'>A Letter to You</span>.</p>",
+    "newsletter_button": "Receive A Letter to You"
+  }
+}
